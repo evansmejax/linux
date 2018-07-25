@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## I am currently building a Linux operating system from scratch
 
-You can use the [editor on GitHub](https://github.com/evansMeja/My-Operating-System-from-Scatch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+I have [my website](https://programmingempire.tk) a website
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
