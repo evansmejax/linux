@@ -11,11 +11,11 @@ This is a projects as part of my training on C++ coding.
 
 ## After installation the OS prints the following message
 
-crazy programmer evans meja
-We are now in kernel main
-crazy programmer evans meja
-https://www.programmingempire
-crazy programmer evans meja
+- crazy programmer evans meja
+- We are now in kernel main
+- crazy programmer evans meja
+- https://www.programmingempire
+- crazy programmer evans meja
 
 
 
