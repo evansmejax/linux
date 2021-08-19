@@ -14,7 +14,7 @@ This is a projects as part of my training on C++ coding.
 - crazy programmer evans meja
 - We are now in kernel main
 - crazy programmer evans meja
-- https://www.programmingempire
+- https://evansmeja.github.io/Hello-World-linux-OS-C-/
 - crazy programmer evans meja
 
 
