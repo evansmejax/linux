@@ -9,7 +9,7 @@ This is a projects as part of my training on C++ coding.
 - You can decide to create dual a bootable USB stick
 - During installations you can decide to dual boot it or run it live
 
-## After installation the OS prints the following message
+## After installation the OS, it will prints the following message
 
 - crazy programmer evans meja
 - We are now in kernel main
